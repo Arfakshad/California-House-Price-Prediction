@@ -4,7 +4,9 @@ A Machine Learning web application that predicts California house prices based o
 
 ## 🚀 Live Demo
 
-https://YOUR-STREAMLIT-APP.streamlit.app
+## 🚀 Live Demo
+
+https://california-house-price-prediction-na97v9zcvzqvg6xrjmwzud.streamlit.app
 
 ## 💻 GitHub Repository
 
